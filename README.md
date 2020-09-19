@@ -8,3 +8,5 @@ $mediafire = new mf('email@gmail.com', 'password'); //login and save session for
 $session_token = $mediafire->session_token;
 ?>
 ```
+
+Docs: https://www.mediafire.com/developers/core_api/1.5/getting_started/
